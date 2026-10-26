@@ -1,0 +1,10 @@
+#Global variables
+M=1.0
+
+#Simulation variables
+h=0.05
+steps=10000
+escape_radius=25.0
+
+#data
+data_file_name=initial_data.csv
